@@ -12,6 +12,7 @@ git checkout -- index.html
 git reset HEAD  //  remove added file which are not commited , remove file from staging area
 git checkout 8dea --  index.html // checkout specific commit id 
 // gitNodeRepo 
+git remote add gitNodeRepo https://github.com/user/repo.git
 git push
 git push -u gitNodeRepo master
 github for desktop
