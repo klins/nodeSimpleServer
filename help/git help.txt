@@ -1,0 +1,17 @@
+git init
+git add .
+git add --all
+git log
+git commit -m "comment"
+git status
+git diff
+git rm filename
+git mv filname loveNotes/filename2
+git commit -am "add with commit with this comment"
+git checkout -- index.html
+git reset HEAD  //  remove added file which are not commited , remove file from staging area
+git checkout 8dea --  index.html // checkout specific commit id 
+// gitNodeRepo 
+git add remote URL
+git push
+git push -u gitNodeRepo master
