@@ -16,3 +16,5 @@ git add remote URL
 git push
 git push -u gitNodeRepo master
 github for desktop
+https://www.youtube.com/watch?v=BYzriB5aTWU        github
+https://www.youtube.com/watch?v=pU9Q6oiQNd0        nodeJS
