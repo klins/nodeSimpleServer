@@ -18,6 +18,9 @@ git push -u gitNodeRepo master
 github for desktop
 
 git reset --hard origin/master   //reset and fetch from git repo
+git remote add nodeJSBasics https://github.com/klins/nodeJSBasics.git
+git remote -v
+git pull origin master   //origin repo URL
 
 https://www.youtube.com/watch?v=BYzriB5aTWU        github
 https://www.youtube.com/watch?v=pU9Q6oiQNd0        nodeJS
