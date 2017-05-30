@@ -16,5 +16,8 @@ git remote add gitNodeRepo https://github.com/user/repo.git
 git push
 git push -u gitNodeRepo master
 github for desktop
+
+git reset --hard origin/master   //reset and fetch from git repo
+
 https://www.youtube.com/watch?v=BYzriB5aTWU        github
 https://www.youtube.com/watch?v=pU9Q6oiQNd0        nodeJS
