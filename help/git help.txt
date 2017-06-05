@@ -22,5 +22,19 @@ git remote add nodeJSBasics https://github.com/klins/nodeJSBasics.git
 git remote -v
 git pull origin master   //origin repo URL
 
+
+npm run build
+npm run build:prod
+
 https://www.youtube.com/watch?v=BYzriB5aTWU        github
 https://www.youtube.com/watch?v=pU9Q6oiQNd0        nodeJS
+https://www.youtube.com/watch?v=8vnkM8JgjpU		webpack
+https://www.youtube.com/watch?v=_GSOnHRYSS0   node express deloyment
+
+https://www.youtube.com/watch?v=1Fko__MrUTg&index=3&list=PL7uWZLhe6kli6lI57hzJDxmbwsEJkOSpL
+1,2,3,12,13,14,10,11,15,16,6,7,8,9,18,19,20,21,17,22,31,23
+
+https://www.youtube.com/watch?v=dEI7HSLbDE4
+
+
+https://www.youtube.com/watch?v=nUleQHeBSgs -- AEM CQ
